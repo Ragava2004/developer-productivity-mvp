@@ -34,9 +34,6 @@ This project solves that by converting metrics into clear insights and next step
 ## Tech Stack
 
 - React.js
-- JavaScript
-- HTML
-- CSS
 - GitHub Pages / GitHub
 
 ---
