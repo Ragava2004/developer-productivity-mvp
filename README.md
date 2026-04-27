@@ -80,19 +80,7 @@ Take Action
 
 ---
 
-## Miro User Journey
 
-Designed a user journey flow in Miro to map how developers interact with the product.
-
----
-
-## Live Demo
-
-Add your GitHub Pages/Vercel link here:
-
-`https://your-live-link-here`
-
----
 
 ## GitHub Repository
 
@@ -112,8 +100,7 @@ https://github.com/Ragava2004/developer-productivity-mvp
 
 ## Demo Video
 
-Add your video link here.
-
+https://drive.google.com/file/d/1NawdNymnkMB7C1ek994wgPjDr_4wuAR7/view?usp=drive_link
 ---
 
 ## Author
